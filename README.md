@@ -200,7 +200,7 @@ Add neighborhood-level census data
 Build a predictive dashboard or web app for real-time rent estimation
 
 [RENT PREDICTION MODEL ANALYTICAL REPORT.pdf](https://github.com/user-attachments/files/24156410/RENT.PREDICTION.MODEL.ANALYTICAL.REPORT.pdf)
-[Rent_Prediction_pynb.ipynb](https://github.com/user-attachments/files/24156426/Rent_Prediction_pynb.ipynb)
+
 {
   "nbformat": 4,
   "nbformat_minor": 0,
